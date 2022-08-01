@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_project
 
 ## Project setup
@@ -194,6 +195,7 @@ npm run serve
        ```
 
        
+
 
 
 
